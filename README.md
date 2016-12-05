@@ -1,5 +1,7 @@
 # Gravity Forms Sass
 
+This is a fork of the great Gravity Forms Sass styling by Ryan Olson. [See details here](https://github.com/thatryan/gravity-forms-sass)
+
 I love the Gravity Forms plugin for WordPress, but never cared for the excessive stylesheets and complicated selectors it introduced. This project aims to offer styling for GForms using Sass and minimal selectors.
 
 
@@ -16,9 +18,9 @@ Though a few aspects are still in early stages of dev ;)
 
 ## Install
 
-* [Download latest release](https://github.com/thatryan/gravity-forms-sass/archive/master.zip)
-* Clone the repo: `https://github.com/thatryan/gravity-forms-sass.git`
-* Install with [Bower](http://bower.io/): `bower install gravity-forms-sass`
+* [Download latest release](https://github.com/gregghenry/gravity-forms-sass/archive/master.zip)
+* Clone the repo: `https://github.com/gregghenry/gravity-forms-sass.git`
+* Install with [Bower](http://bower.io/): `bower install -save threeg-gf-sass`
 
 ## Usage
 
@@ -35,7 +37,7 @@ Please don't make pull requests against the `master` branch. This is the latest,
 
 ## TODO
 
-Some parts of the styling still need to be addressed, 
+Some parts of the styling still need to be addressed,
 
 1. Drop down and multi-select "enhanced UI"
 2. Progress bar on multi select
@@ -46,6 +48,7 @@ Some parts of the styling still need to be addressed,
 7. ...
 
 Mostly this is a running list of what I intend to address
+
 
 ## Visual
 
@@ -58,7 +61,14 @@ Links 'n stuff
 
 * [Gravity Forms](http://www.gravityforms.com/)
 * [Gravity Forms Ready Classes](http://www.gravityhelp.com/documentation/page/CSS_Ready_Classes)
+* [Triple G Interactive](https://tripleg.io)
+
+
+## Credit
+
+* [Ryan Olson](https://github.com/thatryan/gravity-forms-sass)
 * Say hi on Twitter [@ryanolson](http://twitter.com/ryanolson)
+
 
 ## Changelog
 

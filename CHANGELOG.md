@@ -1,3 +1,11 @@
+## 1.2.0 (2016-12-05)
+
+Features:
+
+* Forked from thatryan on github
+* Reworked order of scss file includes to avoid `undefined variable`
+* Added to bower as `threeg-gf-sass`
+
 ## 1.1.0 (2014-09-13)
 
 Features:
