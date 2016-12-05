@@ -1,3 +1,9 @@
+## 1.2.1 (2016-12-05)
+
+Features:
+
+* Move to 1 scss file
+
 ## 1.2.0 (2016-12-05)
 
 Features:

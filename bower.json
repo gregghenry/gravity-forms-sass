@@ -1,7 +1,7 @@
 {
 	"name": "threeg-gf-sass",
 	"description": "Replacement styling for Gravity Forms WordPress plugin written in Sass.",
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"keywords": [
 		"gravity-forms",
 		"sass",
